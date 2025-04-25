@@ -5,3 +5,4 @@ htmltojs.zsh
 .eslintrc.js
 *.sublime-*
 node_modules
+package-lock.json
